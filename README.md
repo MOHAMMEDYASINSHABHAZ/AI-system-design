@@ -24,26 +24,7 @@
 
 ---
 
-### Prepared and maintained by the **Founder** of [Outcome School](https://outcomeschool.com): Amit Shekhar
-
-### Follow Amit Shekhar
-
-- [X/Twitter](https://twitter.com/amitiitbhu)
-- [LinkedIn](https://www.linkedin.com/in/amit-shekhar-iitbhu)
-- [GitHub](https://github.com/amitshekhariitbhu)
-
-### Follow Outcome School
-
-- [YouTube](https://youtube.com/@OutcomeSchool)
-- [X/Twitter](https://x.com/outcome_school)
-- [LinkedIn](https://www.linkedin.com/company/outcomeschool)
-- [GitHub](https://github.com/OutcomeSchool)
-
-## I teach at Outcome School
-
-- [AI and Machine Learning](https://outcomeschool.com/program/ai-and-machine-learning)
-
----
+### modified and maintained by : YASIN 
 
 > **Note: AI System Design is moving very fast, so this guide will continue to grow as I write more blogs on new topics. Bookmark it and come back whenever you want a refresher. Keep learning.**
 
@@ -3982,26 +3963,15 @@ MCP connects an agent to tools and data sources. A2A connects an agent to other 
 
 Assume the model will be hijacked, and design the system so that a hijacked model still cannot cause serious harm. Give the agent the least privilege, put every hard rule in code instead of the prompt, ask a human before irreversible actions, allowlist outgoing links and network calls, separate the untrusted data from the model that has tools, log everything, and red team before every release.
 
-### Who created this AI System Design guide?
-
-This AI System Design guide is prepared and maintained by Amit Shekhar, Founder of [Outcome School](https://outcomeschool.com). He has taught and mentored many developers, and their efforts landed them high-paying tech jobs, helped many tech companies in solving their unique problems, and created many open-source libraries being used by top companies.
 
 ---
 
 If this AI System Design guide helped you, please give it a star ⭐ and share it with your friends and colleagues who want to learn AI System Design.
 
-Prepare yourself for AI Engineering Interview: [AI Engineering Interview Questions](https://github.com/amitshekhariitbhu/ai-engineering-interview-questions)
-
-Learn AI Engineering step by step: [AI Engineering Course](https://github.com/amitshekhariitbhu/ai-engineering-course)
-
-Join the [AI and Machine Learning](https://outcomeschool.com/program/ai-and-machine-learning) program at Outcome School to learn all of these in depth.
-
-[**Read all of our high-quality blogs here.**](https://outcomeschool.com/blog)
-
 ## License
 
 ```
-   Copyright (C) 2026 Outcome School
+   Copyright (C) 2026 
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
