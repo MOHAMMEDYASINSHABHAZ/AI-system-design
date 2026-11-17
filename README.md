@@ -1,5 +1,5 @@
 <p align="center">
-    <img alt="AI System Design - Learn how to design AI systems built on LLMs, RAG, and AI Agents step by step" 
+    <h1> "AI System Design - Learn how to design AI systems built on LLMs, RAG, and AI Agents step by step" </h1>
 </p>
 
 # AI System Design
