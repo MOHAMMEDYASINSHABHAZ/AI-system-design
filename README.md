@@ -1,5 +1,5 @@
 <p align="center">
-    <img alt="AI System Design - Learn how to design AI systems built on LLMs, RAG, and AI Agents step by step" src="https://github.com/amitshekhariitbhu/ai-system-design/blob/main/assets/banner.png">
+    <img alt="AI System Design - Learn how to design AI systems built on LLMs, RAG, and AI Agents step by step" 
 </p>
 
 # AI System Design
